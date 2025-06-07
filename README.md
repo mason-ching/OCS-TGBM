@@ -20,4 +20,4 @@ If you find this model useful, please consider citing our paper by the following
 
 ## License
 
-This project is released under the [MIT License](LICENSE)
+This project is released under the [MIT License](LICENSE).
